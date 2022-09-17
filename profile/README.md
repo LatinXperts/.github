@@ -36,9 +36,4 @@ Sigue estos pasos:
 
 ### ¡Listo, ahora eres un@ LatinXpert!
 
-**Al ingresar a la organización, foros, cursos, eventos y actividades derivadas de la comunidad, estás aceptando el código de conducta. El cuál puedes consultar [aquí]()**
-
-### Credit
-
-Portions of this Code of Conduct are based on the example anti-harassment policy from the Geek Feminism wiki, created by the Ada Initiative and other volunteers, under a Creative Commons Zero license.
-And the GitHub Events Code of Conduct.
+**Al ingresar a la organización, foros, cursos, eventos y actividades derivadas de la comunidad, estás aceptando el código de conducta. El cuál puedes consultar [aquí](https://github.com/LatinXperts/.github/blob/main/CodeOfConduct.md)**
