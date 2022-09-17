@@ -1,2 +1,2 @@
 # .github
-LatinXperts inspira y empiedra a la comunidad latina a través de charlas con invitados increíbles.
+LatinXperts inspira y empodera a la comunidad latina a través de charlas con invitados increíbles.
