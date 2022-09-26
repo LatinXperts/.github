@@ -23,83 +23,83 @@ Así que [Visual Partner-Ship](https://visualpartnership.xyz/) no podía dejar e
   <tr>
     <td>
 	<a href="https://www.twitch.tv/videos/978113643">
-  		<img alt="Registro Gráfico Juan Pablo" src="https://user-images.githubusercontent.com/9124597/192180859-5f84cd03-76d8-4d0e-aac7-ecf447a68bee.mp4">
+  		<img alt="Registro Gráfico Juan Pablo" src="https://user-images.githubusercontent.com/9124597/192351566-3a7d429e-c7bd-492b-8415-182f43c72eb4.gif">
 	</a>
 	</td>
     <td>
 	<a href="https://www.twitch.tv/videos/986623957">
-  		<img src="https://user-images.githubusercontent.com/9124597/192182360-6e20adcc-543b-4138-87f2-9aef3661a47b.mp4">
+  		<img alt="Registro Gráfico Juan Oscar" src="https://user-images.githubusercontent.com/9124597/192351681-3e6ef673-7ace-4be3-96f6-955f8727f12d.gif">
 	</a>
 	</td>
     <td>
 	<a href="https://www.twitch.tv/videos/994931823">
-  		<img src="https://user-images.githubusercontent.com/9124597/192182643-af2e7a22-ecd4-429b-9d28-6071a30792c4.mp4">
+  		<img alt="Registro Gráfico Uriel Hdz" src="https://user-images.githubusercontent.com/9124597/192351829-0ce4486e-fe39-46a0-a3f6-64fba546cfda.gif">
 	</a>
 	</td>
     <td>
 	<a href="https://www.twitch.tv/videos/1003234975">
-  		<img src="https://user-images.githubusercontent.com/9124597/192182960-8c45f2c6-4b90-4a85-93af-cd5902c55de2.mp4">
+  		<img alt="Registro Gráfico Cesar Islas" src="https://user-images.githubusercontent.com/9124597/192351913-acaff480-a1d0-4742-9631-871bdb1d1fbd.gif">
 	</a>
 	</td>
   </tr>
   <tr>
     <td>
 	<a href="https://www.twitch.tv/videos/1011401228">
-  		<img src="https://user-images.githubusercontent.com/9124597/192187621-81c3331e-e760-45ee-9bfb-86f0c103caf6.mp4">
+  		<img alt="Registro Gráfico Fernando Gallardo" src="https://user-images.githubusercontent.com/9124597/192352014-5813b00b-6abc-40eb-b1cc-f2e322480548.gif">
 	</a>
 	</td>
     <td>
 	<a href="https://www.twitch.tv/videos/1019466598?collection=e_UFU3p2dRYk0A">
-  		<img src="https://user-images.githubusercontent.com/9124597/192187930-3c17aa66-00b2-469a-bcc1-b250a88b787c.mp4">
+  		<img alt="Registro Gráfico Yesi Days" src="https://user-images.githubusercontent.com/9124597/192352199-681762f2-2345-4a0d-b4ca-5ea71a36f8a0.gif">
 	</a>
 	</td>
     <td>
 	<a href="https://www.twitch.tv/videos/1027460913">
-  		<img src="https://user-images.githubusercontent.com/9124597/192188123-ff573abb-7154-4347-bcd6-f40cd2858a75.mp4">
+  		<img alt="Registro Gráfico Erika Luna" src="https://user-images.githubusercontent.com/9124597/192352377-c089f7e2-0396-4211-b14b-55d5b92ddd92.gif">
 	</a>
 	</td>
     <td>
 	<a href="https://www.twitch.tv/videos/1035305356">
-  		<img src="https://user-images.githubusercontent.com/9124597/192188396-d9df1d61-2631-4db9-b76b-444d6d58dc7b.mp4">
+  		<img alt="Registro Gráfico Andrea Griffiths" src="https://user-images.githubusercontent.com/9124597/192352519-34421ab5-bfa1-4ff9-a4b0-37c02649d0ea.gif">
 	</a>
 	</td>
   </tr>
   <tr>
     <td>
-	<a href="https://www.twitch.tv/videos/1042703788">
-  		<img src="https://user-images.githubusercontent.com/9124597/192188691-05ca2976-042d-490e-a9aa-f1602ce5c97f.mp4">
+	<a  alt="Registro Gráfico Michelle Díaz" href="https://www.twitch.tv/videos/1042703788">
+  		<img alt="Registro Gráfico Michelle Díaz" src="https://user-images.githubusercontent.com/9124597/192353629-12c3ec62-a4ba-41dc-bbaa-2fc915d98c42.gif">
 	</a>
 	</td>
     <td>
 	<a href="https://www.twitch.tv/videos/1121541511">
-  		<img src="https://user-images.githubusercontent.com/9124597/192189101-8bfe6365-b35b-4dc2-9592-cbc547307f9b.mp4">
+  		<img alt="Registro Gráfico Campus Experts" src="https://user-images.githubusercontent.com/9124597/192354570-06fa9847-c50a-42b1-80f1-76741ef0a360.gif">
 	</a>
 	</td>
     <td>
 	<a href="https://www.twitch.tv/videos/1128537413">
-  		<img src="https://user-images.githubusercontent.com/9124597/192189342-1363a75d-3337-4cae-a6d5-781a379eb1ee.mp4">
+  		<img alt="Registro Gráfico Raquel Saga" src="https://user-images.githubusercontent.com/9124597/192355736-75189f11-953f-4d1e-bb8e-ebc9d85c3eb1.gif">
 	</a>
 	</td>
     <td>
 	<a href="https://www.twitch.tv/videos/1175132892">
-  		<img src="https://user-images.githubusercontent.com/9124597/192189505-f67038c7-4fd1-422c-bb2d-d76ded35c839.mp4">
+  		<img alt="Registro Gráfico Kate Chauca" src="https://user-images.githubusercontent.com/9124597/192355858-a6db6c43-4ecc-4183-b7a6-52aa40fe78ab.gif">
 	</a>
 	</td>
  </tr>
   <tr>
     <td>
 	<a href="https://https://www.twitch.tv/videos/1283934772">
-  		<img src="https://user-images.githubusercontent.com/9124597/192193185-7d92f7e5-7066-41c7-86d2-90e1a93c6d8a.mp4">
+  		<img alt="Registro Gráfico Pedro Galván" src="https://user-images.githubusercontent.com/9124597/192356069-113406dc-1cf8-4a5c-8e86-f03932b66195.gif">
 	</a>
 	</td>
     <td>
 	<a href="https://www.twitch.tv/videos/1291893686">
-  		<img src="https://user-images.githubusercontent.com/9124597/192193470-86fdb224-2861-4540-b05a-9a7b7f718857.mp4">
+  		<img alt="Registro Gráfico Ale Bourne" src="https://user-images.githubusercontent.com/9124597/192356190-6e808c51-f3dd-4c94-b2ef-05d0c737f47c.gif">
 	</a>
 	</td>
     <td>
 	<a href="https://www.twitch.tv/videos/1307059523">
-  		<img src="https://user-images.githubusercontent.com/9124597/192193799-0ff0be2f-32f7-4568-bb31-91ec1629bbeb.mp4">
+  		<img alt="Registro Gráfico Manu Castrillón" src="https://user-images.githubusercontent.com/9124597/192356382-01e8ac88-ad4c-4ce9-9489-7e3478a57e2a.gif">
 	</a>
 	</td>
  </tr>
