@@ -86,6 +86,23 @@ Así que [Visual Partner-Ship](https://visualpartnership.xyz/) no podía dejar e
 	</a>
 	</td>
  </tr>
+  <tr>
+    <td>
+	<a href="https://https://www.twitch.tv/videos/1283934772">
+  		<img src="https://user-images.githubusercontent.com/9124597/192193185-7d92f7e5-7066-41c7-86d2-90e1a93c6d8a.mp4">
+	</a>
+	</td>
+    <td>
+	<a href="https://www.twitch.tv/videos/1291893686">
+  		<img src="https://user-images.githubusercontent.com/9124597/192193470-86fdb224-2861-4540-b05a-9a7b7f718857.mp4">
+	</a>
+	</td>
+    <td>
+	<a href="https://www.twitch.tv/videos/1307059523">
+  		<img src="https://user-images.githubusercontent.com/9124597/192193799-0ff0be2f-32f7-4568-bb31-91ec1629bbeb.mp4">
+	</a>
+	</td>
+ </tr>
 </table>
 
 ## Una comunidad
